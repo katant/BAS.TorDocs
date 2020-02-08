@@ -11,7 +11,7 @@ Then select `Start Tor`
 
 ![](start_tor_image_2.png)
 
-Here we can configure Tor
+Here you can configure Tor
 
 ![](start_tor_image_3.png)
 
@@ -38,7 +38,7 @@ Select `Kill Tor`
  
 ![](kill_tor_image_1.png)
  
-Here we can kill Tor
+Here you can kill Tor
  
 ![](kill_tor_image_2.png)
  
