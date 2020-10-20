@@ -1,6 +1,6 @@
 # BAS.Tor Documentation
 
-Examples created on 1.3 version of the module and may be outdated
+Examples created on 1.3 version of the module and are outdated
 
 ## Start Tor
 Select `Tor network` from BAS elements list
